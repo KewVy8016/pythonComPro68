@@ -1,4 +1,6 @@
 print("Hello, World!")
 print("Thanaboon Imcahroen")
 print("i'm hungry")
-print("i'm good \" i'm fine\"")
+print("im'good \"And I'm fine\"")
+print("/\\")
+#print("Hello, World!\nThanaboon Imcahroen\nI'm hungry\nI'm good \"And I'm fine\"\n/\\")
