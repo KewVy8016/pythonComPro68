@@ -10,4 +10,4 @@ def generate_prime_number(num):
             result.append(i)
     return result
 
-print(generate_prime_number(10))  
+print(generate_prime_number(20))  
