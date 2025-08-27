@@ -1,0 +1,5 @@
+This is the first line in the file.
+This is the seconds line in the file.
+Appending a new line at the end.
+Appending a new line at the end.
+Appending a new line at the end.
